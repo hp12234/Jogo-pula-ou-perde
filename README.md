@@ -9,4 +9,3 @@ Ele está com um problema, mas talvez só seja no meu pc, quando o quadrado atin
 
 Foi usado: html, css, e script.js
 
-link disponibilizado do jogo : https://hp12234.github.io/Jogo-pula-ou-perde/
