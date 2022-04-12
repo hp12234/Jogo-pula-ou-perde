@@ -8,3 +8,5 @@ o jogo se chama jogo do dinossauro, porque é parecido com o jogo do google quan
 Ele está com um problema, mas talvez só seja no meu pc, quando o quadrado atinge o obstáculo não há uma mensagem de erro, mas o código está certo. Prof, peço q considere o erro.
 
 Foi usado: html, css, e script.js
+
+link disponibilizado do jogo : https://hp12234.github.io/Jogo-pula-ou-perde/
